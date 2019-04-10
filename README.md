@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Search Movie / TV
+* The application leverage the [The Movie Database API](https://developers.themoviedb.org/3/getting-started/introduction), to provide search on movies and TV shows. 
+* To run the application, you need to replace "api_key" on "api.js" with an api key from TMDb.
+* Start server by 'npm start'.
+* Open [http://localhost:3000](http://localhost:3000) on your brower.
+
+
+
+## ===== The Following Are from the origin ReadMe of Create React App =====
+
 ## Available Scripts
 
 In the project directory, you can run:
